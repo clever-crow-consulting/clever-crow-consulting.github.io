@@ -2,6 +2,26 @@
  * Start Bootstrap - Freelancer Bootstrap Theme (http://startbootstrap.com)
  * Code licensed under the Apache License v2.0.
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ *
+ *Tints of #2c3e50
+ #2c3e50
+ #415161
+ #566472
+ #6b7784
+ #808b96
+ #959ea7
+ #aab1b9
+ #bfc5ca
+ #d4d8dc
+ #e9ebed
+ #ffffff
+
+ nature-mature Color Palette
+ #2c3e50
+ #6c645d
+ #7b8385
+ *
+ *
  */
 
 body {
@@ -22,7 +42,7 @@ a:focus,
 a:active,
 a.active {
     outline: 0;
-    color: #18bc9c;
+    color: #7b8385;
 }
 
 h1,
@@ -63,7 +83,7 @@ hr.star-light {
 
 hr.star-light:after {
     color: #fff;
-    background-color: #18bc9c;
+    background-color: #7b8385;
 }
 
 hr.star-primary {
@@ -82,7 +102,7 @@ hr.star-primary:after {
 header {
     text-align: center;
     color: #fff;
-    background: #18bc9c;
+    background: #7b8385;
 }
 
 header .container {
@@ -181,7 +201,7 @@ section h2 {
 
 section.success {
     color: #fff;
-    background: #18bc9c;
+    background: #7b8385;
 }
 
 @media(max-width:767px) {
@@ -265,7 +285,7 @@ section.success {
 .btn-outline:active,
 .btn-outline.active {
     border: solid 2px #fff;
-    color: #18bc9c;
+    color: #7b8385;
     background: #fff;
 }
 
@@ -318,7 +338,7 @@ section.success {
 }
 
 .floating-label-form-group-with-focus label {
-    color: #18bc9c;
+    color: #7b8385;
 }
 
 form .row:first-child .floating-label-form-group {
